@@ -1,7 +1,8 @@
 # Suicide-Analysis 
 
->In this project, we will analyze the Suicide Rates dataset and draw conclusions related to global suicide trends from 1985 to 2016
->Used Tools: Python, Tableau and Excel
+>In this project, we will analyze the Suicide Rates dataset and draw conclusions related to global suicide trends from 1985 to 2016.
+
+>Used Tools: Python, Tableau and Excel.
 
 Interactive Dashboard: https://lnkd.in/dUQFDD_m
 
